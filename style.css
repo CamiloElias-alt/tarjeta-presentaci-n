@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background: #ffffff;
+}
+.foto-perfil{
+    width: 50%;
+    border-radius: 50%;
+}
+header {
+    background-color: rgb(254, 249, 240);
+    text-align: center;
+}
+.nombre{
+    display: flex;
+    justify-content: space-between; 
+}
+h1 {
+    margin: 4px 25px;
+}
+.icon {
+    width: 30px;
+    margin: 5px;
+}
