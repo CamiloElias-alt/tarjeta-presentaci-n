@@ -47,7 +47,10 @@ footer {
     background-color: rgb(254, 249, 240);
     display: flex;
     justify-content: space-between;
-    align-items: end;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 .gmail {
     width: 80px;
